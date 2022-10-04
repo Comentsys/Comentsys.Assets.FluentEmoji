@@ -20,6 +20,7 @@
 		<RepositoryUrl>https://github.com/Comentsys/Comentsys.Assets.FluentEmoji</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageIcon>comentsys.assets.fluentemoji.png</PackageIcon>
+		<RunAnalyzersDuringBuild>True</RunAnalyzersDuringBuild>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -39,5 +40,9 @@
 
 	<ItemGroup>
 	  <PackageReference Include="Comentsys.Toolkit" Version="1.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Comentsys.Assets.FluentEmoji.SourceGenerator\Comentsys.Assets.FluentEmoji.SourceGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
 	</ItemGroup>
 </Project>
