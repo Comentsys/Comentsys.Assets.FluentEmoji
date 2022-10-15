@@ -43,6 +43,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Comentsys.Assets.FluentEmoji.SourceGenerator\Comentsys.Assets.FluentEmoji.SourceGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+		<ProjectReference Include="..\Comentsys.Assets.FluentEmoji.SourceGenerator\Comentsys.Assets.FluentEmoji.SourceGenerator.csproj" 
+		OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
 	</ItemGroup>
 </Project>
