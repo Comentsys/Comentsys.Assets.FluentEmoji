@@ -24,7 +24,7 @@ You can also supply an **Array** of **Colours** or a single **Colour** to custom
 
 ### Examples
 
-![Flat Fluent Emoji](Assets/flatfluentemoji.png)
+![Flat Fluent Emoji](https://raw.githubusercontent.com/Comentsys/Comentsys.Assets.FluentEmoji/refs/heads/main/Assets/flatfluentemoji.png)
 
 ### Get(type, sources, targets)
 
@@ -72,7 +72,7 @@ Asset Resource
 
 ### Examples
 
-![Animated Fluent Emoji](Assets/animatedfluentemoji.png)
+![Animated Fluent Emoji](https://raw.githubusercontent.com/Comentsys/Comentsys.Assets.FluentEmoji/refs/heads/main/Assets/animatedfluentemoji.png)
 
 > `ImageFluentEmoji` are **Animated** but are shown here as a static **Example**
 
@@ -115,7 +115,7 @@ Array of Fluent Emoji Type
 
 ### Examples
 
-![Image Fluent Emoji](Assets/imagefluentemoji.png)
+![Image Fluent Emoji](https://raw.githubusercontent.com/Comentsys/Comentsys.Assets.FluentEmoji/refs/heads/main/Assets/imagefluentemoji.png)
 
 ### Get(client, type)
 
