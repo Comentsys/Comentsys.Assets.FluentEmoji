@@ -44,6 +44,10 @@ public class EmojiEnumGenerator : ISourceGenerator
         builder.AppendLine("/// </summary>");
         builder.AppendLine("public enum FluentEmojiType");
         builder.AppendLine("{");
+        builder.AppendLine("\t/// <summary>");
+        builder.AppendLine($"\t/// None");
+        builder.AppendLine("\t/// </summary>");
+        builder.AppendLine($"\tNone,");
         foreach (var svgFile in svgFiles)
         {
             builder.AppendLine("\t/// <summary>");
