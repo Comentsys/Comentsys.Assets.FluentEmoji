@@ -16,6 +16,10 @@ Install-Package Comentsys.Assets.FluentEmoji
 
 ## Change Log
 
+### Version 2.0.0
+
+- Add Fluent Emoji Metadata with Image / Animated Emoji and Update for New / Fixed Emoji
+
 ### Version 1.1.0
 
 - Update for Comentsys.Toolkit and Emoji Fixes
